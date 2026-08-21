@@ -35,6 +35,8 @@ Then, we will wire the IR Receiver Module. We will be using 3 male to female wir
 
 Finally, we will be wiring the LEDs. Connect the last available ground pin on the Arduino to the negative power rail of the breadboard. Next, place the first LED (red) on the left. Connect the cathode to ground and connect the anode to pin 12 through a 220 ohm resistor. Then place LED 2 (yellow) next to the first LED, connecting the cathode to ground and connecting the anode to pin 7 through a 220 ohm resistor. Then place LED 3 (yellow) next to LED 2, connecting the cathode to ground and connecting the anode to pin 4 through a 220 ohm resistor. Then place LED 4 (red) next to LED 3, connecting the cathode to ground and connecting the anode to pin 2 through a 220 ohm resistor. 
 
+<img width="500" hspace="20" alt="Image of Arduino car diagram" src="Arduino-Car-Diagram.png" />
+
 ### <ins>How to Run
 Before running the code, you must have the Arduino IDE installed.
 
